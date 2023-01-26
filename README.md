@@ -10,11 +10,11 @@
 
 ## Acerca de 💻 
 
-Este proyecto consiste en la creación un clone de una landing page de Airbnb utilizando HTML, CSS, JavaScritp, SASS, aprendiendo buenas prácticas, implementando responsive design con un enfoque Mobile First a través de Media Queries, uso de mixins y gulp.js Asi mismo, este proyecto se desarrollo utilizando el flujo de trabajo y control de versiones con git además el CSS ha sido escrito utilizando el enfoque de la metodologia estilos CSS en Módulos:
+Este proyecto consiste en la creación un clone de una landing page de Airbnb utilizando HTML, CSS, JavaScritp, SASS, aprendiendo buenas prácticas, implementando responsive design con un enfoque Mobile First a través de Media Queries, uso de mixins y gulp.js Asi mismo, este proyecto se desarrollo utilizando el flujo de trabajo y control de versiones con git además el CSS ha sido escrito utilizando el enfoque de la metodologia estilos CSS BEM:
 
-* .card{}
-* .card h2{}
-* .card img{}.
+* .Bloque{}
+* .Bloque__Elemento{}
+* .Bloque__Elemento--Modificador{}.
 
 
 ## Construido con 🛠️
